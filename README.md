@@ -1,4 +1,6 @@
 # MIME
+Taken and adopted from original project: https://github.com/declare-lab/MIME
+
 This repository contains PyTorch implementation of empathetic-response generation model [MIME: MIMicking Emotions for Empathetic Response Generation](https://arxiv.org/pdf/2010.01454.pdf).
 
 ## Overview of MIME
